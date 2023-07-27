@@ -8,5 +8,9 @@ namespace R5T.L0049
 	/// </summary>
 	public static class Documentation
 	{
+        /// <summary>
+        /// For example, on Windows the path would be: C:\Users\{User}\ (example: C:\Users\David\).
+        /// </summary>
+        public static readonly object UserDirectoryPathExample;
 	}
 }

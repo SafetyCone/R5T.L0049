@@ -7,7 +7,7 @@ namespace R5T.L0049.Construction
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Demonstrations.Instance.Get_UserProfileDirectoryPath();
         }
     }
 }
